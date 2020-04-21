@@ -1,5 +1,3 @@
-# adventcode
-Advent of code 2019
-
-Learning ruby through adventofcode (https://adventofcode.com/)
+# Adventcode 2019
+Learning ruby on adventofcode (https://adventofcode.com/)
 
